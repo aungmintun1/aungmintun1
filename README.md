@@ -98,7 +98,7 @@
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/lotusheart.png" alt="project 3" height="100%" />
+                        <img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/lotus-heart.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
