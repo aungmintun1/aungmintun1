@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/banner.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Aung Min</h1>
