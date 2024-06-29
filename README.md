@@ -1,3 +1,7 @@
+<div id="" align="center">
+  <img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/banner.png" width="100%"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Aung Min</h1>
 <h3 align="center">A passionate fullstack developer from Myanmar based in Queens, NYC</h3>
 
