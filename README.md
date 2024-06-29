@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love doing photography and occasionally learn how to play guitar whenever I have time.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me by going to my portfolio site!</h3>
 <p align="left">
 </p>
 
