@@ -68,9 +68,7 @@
 						</a>
 					</p>
 					<p><strong>HTML, CSS, Javascript</strong></p>
-          <p>
-						Description goes here
-					</p>
+        			        <p>Description goes here</p>
 				</div>
 			</td>
 			<td width="50%">
@@ -92,6 +90,7 @@
 					 <p><strong>HTML, CSS, Javascript</strong></p>
 					<p>Description goes here</p>
 				</div>
+			</td>
         </tr>
 	    <tr>
             <td width="50%">
