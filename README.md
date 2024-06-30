@@ -72,10 +72,10 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">Project 1</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/sushifushi" alt="project 2" height="100%" />
+						<img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/find-house.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -84,11 +84,11 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+        			        <p>Description goes here</p>
 				</div>
 			</td>
         </tr>
