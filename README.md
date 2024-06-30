@@ -67,7 +67,7 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript,PHP, Laravel</strong></p>
+					<p><strong>HTML, CSS, Javascript,PHP, Laravel, MySql</strong></p>
         			        <p>Allows Agents to upload property listings, and users to view and search listings.</p>
 				</div>
 			</td>
@@ -87,7 +87,7 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript, PHP, Laravel</strong></p>
+					<p><strong>HTML, CSS, Javascript, PHP, Laravel,MySql</strong></p>
         			        <p>Restaurant Application that allows for food categories and food items to be added to the menu also includes User Authentication.</p> 
 				</div>
 			</td>
@@ -129,7 +129,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
+                    <p><strong>HTML, CSS, Javascript, Node JS & Experss, MongoDB</strong></p>
 		    <p>Users are able to upload recipe blogs, as well as like, save and comment. Also includes website store integrated with stripe</p>
                 </div>	
             </td>
