@@ -77,7 +77,7 @@
 				<h3 align="center">Project 2</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/sushi.png" alt="project 2" height="100%" />
+						<img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/sushifushi" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
