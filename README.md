@@ -117,7 +117,7 @@
                 <h3 align="center">HBO Movie Application</h3>
                 <div align="center">  
                     <a href='https://aung-hbo-clone.netlify.app/' target="_blank">
-                        <img src="https://aungmintun.netlify.app/assets/images/hbo.png" alt="project 4" height="342px" />
+                        <img src="https://aungmintun.netlify.app/assets/images/hbo.png" alt="project 4" height="330px" />
                     </a>
                     <br>
                     <br>
