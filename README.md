@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aung Min</h1>
 <h3 align="center">A passionate fullstack developer from Myanmar based in Queens, NYC</h3>
 
-- 🔭 I’m currently working on [Dish Diary](https://dish-diary-aung-5659309cd5af.herokuapp.com/)
+- 🔭 I’m currently working on [HBO Movie Application](https://aung-hbo-clone.netlify.app/)
 
 - 🌱 I’m currently learning **React and Angular**
 
@@ -114,23 +114,23 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Dish Diary (Recipe Blog and Online Store)</h3>
+                <h3 align="center">HBO Movie Application</h3>
                 <div align="center">  
-                    <a href='https://dish-diary-aung-5659309cd5af.herokuapp.com/' target="_blank">
-                        <img src="https://raw.githubusercontent.com/aungmintun1/aungmintun1/main/assets/dish" alt="project 4" height="100%" />
+                    <a href='https://aung-hbo-clone.netlify.app/' target="_blank">
+                        <img src="https://aungmintun.netlify.app/assets/images/hbo.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href='https://dish-diary-aung-5659309cd5af.herokuapp.com/' target="_blank">
+                        <a href='https://aung-hbo-clone.netlify.app/' target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href='https://dish-diary-aung-5659309cd5af.herokuapp.com/' target="_blank">
+						<a href='https://aung-hbo-clone.netlify.app/' target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript, Node JS & Experss, MongoDB</strong></p>
-		    <p>Users are able to upload recipe blogs, as well as like, save and comment. Also includes website store integrated with stripe</p>
+                    <p><strong>HTML, CSS, React and Next JS</strong></p>
+		    <p>Users are able to create an account and access movies from the movie API</p>
                 </div>	
             </td>
         </tr>
